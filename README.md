@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello, I'm Xuzhou Zhu
+
+**📧 Email:** zhuxuzhou@sjtu.edu.cn  
+**🔬 Research Interests:** Embodied Intelligence, Robotics, AI  
+**🏫 Institution:** Shanghai Jiao Tong University  
+
+This is my personal GitHub profile for academic purposes.
+
 
 <!--
 **rosrook/rosrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
